@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.render;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.scenes.scene2d.Actor;
 import com.loser.game.bubblefire.logic.GameLogic;

@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.logic;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 6/8/2015
- * */
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.physics.box2d.Body;
 import com.badlogic.gdx.physics.box2d.BodyDef;

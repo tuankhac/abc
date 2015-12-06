@@ -1,9 +1,5 @@
 package com.loser.game.bubblefire.assets;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 6/8/2015
- * */
+
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 

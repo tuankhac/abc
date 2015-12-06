@@ -1,11 +1,6 @@
 package com.loser.game.bubblefire.render;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import com.badlogic.gdx.graphics.g2d.Batch;
-import com.loser.game.bubblefire.logic.Assets;
+import com.loser.game.bubblefire.assets.Assets;
 import com.loser.game.bubblefire.logic.PlayerLogic;
 import com.loser.game.bubblefire.utils.Constants;
 

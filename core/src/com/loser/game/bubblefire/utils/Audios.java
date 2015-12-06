@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.utils;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.utils.Disposable;

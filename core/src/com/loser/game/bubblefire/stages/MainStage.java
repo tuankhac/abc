@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.stages;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.math.Rectangle;
@@ -14,7 +9,7 @@ import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.utils.Scaling;
 import com.badlogic.gdx.utils.viewport.ScalingViewport;
 import com.loser.game.bubblefire.SaveScore;
-import com.loser.game.bubblefire.logic.Assets;
+import com.loser.game.bubblefire.assets.Assets;
 import com.loser.game.bubblefire.logic.WorldLogic;
 import com.loser.game.bubblefire.render.EnemyRender;
 import com.loser.game.bubblefire.render.EventsButtons;

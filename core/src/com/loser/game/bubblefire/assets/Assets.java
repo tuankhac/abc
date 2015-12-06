@@ -1,9 +1,4 @@
-package com.loser.game.bubblefire.logic;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
+package com.loser.game.bubblefire.assets;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.assets.AssetManager;
 import com.badlogic.gdx.graphics.Texture;
@@ -11,7 +6,6 @@ import com.badlogic.gdx.graphics.Texture.TextureFilter;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.utils.Disposable;
-import com.loser.game.bubblefire.assets.AssetAtlats;
 import com.loser.game.bubblefire.utils.Constants;
 
 public class Assets implements Disposable {

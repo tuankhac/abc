@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.logic;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import java.io.BufferedReader;
 import java.io.IOException;
 

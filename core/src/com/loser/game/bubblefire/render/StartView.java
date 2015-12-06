@@ -1,9 +1,4 @@
 package com.loser.game.bubblefire.render;
-/*
- *  created by tuankhac 
- *  group losers
- *  update 31/7/2015
- * */
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.Texture;
@@ -19,7 +14,7 @@ import com.badlogic.gdx.scenes.scene2d.ui.TextButton;
 import com.badlogic.gdx.scenes.scene2d.ui.TextButton.TextButtonStyle;
 import com.badlogic.gdx.scenes.scene2d.utils.ClickListener;
 import com.badlogic.gdx.utils.Disposable;
-import com.loser.game.bubblefire.logic.Assets;
+import com.loser.game.bubblefire.assets.Assets;
 import com.loser.game.bubblefire.utils.Audios;
 import com.loser.game.bubblefire.utils.Constants;
 import com.loser.game.bubblefire.utils.Constants.GLOBAL_STATE;
